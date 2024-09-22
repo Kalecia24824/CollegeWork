@@ -18,9 +18,6 @@ This is a type of poem created by Emily Dickinson in 1891 displayed by basic HTM
 ### Grocery List: 
 This is a list that uses the table, table heading and table data elements for displaying the different fruits and veggies needed for groceries. 
 
-### Join A Social Network: 
-This is a simple static HTML form where users can fill out their information to join the social network. 
-
 ### Hometown: 
 This is a mini-reading about my hometown Marianna in Florida filled with lists, paragraphs about the location, weather, sports, population and things someone could do in Marianna. 
 

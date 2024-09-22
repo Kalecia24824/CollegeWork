@@ -28,4 +28,29 @@ The course addresses various topics including algorithm-building principles, pro
 - Amazon AWS Cloud9 
 
 ### Assignments Description: 
-In this folder, there will be specific projects in the class containing Java. Along with the README to describe what the project. 
+#### Chinese Zodiac: 
+Allows you to enter the year you were born to find your Chinese Zodiac 
+
+#### Contact List: 
+Allows you to input your friend's names and numbers to return an array
+
+#### Hello World: 
+Prints a hello message typical of a programmer's first program
+
+#### PaintNeeded: 
+Finds the amount of paint needed by inputting wall's height, width and cost of paint
+
+#### Palindrome: 
+Allows you to enter a word to see if it is a palindrome
+
+#### Salary: 
+Lets you calculate your year's worth salary based on your wage
+
+#### Season: 
+Tells you the season based on your input of month and day 
+
+#### TestTV: 
+Lets you test the TV by changing the volume 
+
+#### TextMsg: 
+Decodes your text message based on the five popular abbreviations you input into the program
