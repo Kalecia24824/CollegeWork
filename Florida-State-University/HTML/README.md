@@ -28,7 +28,7 @@ develop custom graphics for a website utilizing free online graphics and photo e
 - CyberDuck (SFTP client)
 - Google Chrome 
 
-Link: [CGS 2821 README.md](CGS-2821/README.md "My CGS2821 README file")
+Link: [CGS-2821 README.md](CGS-2821/README.md "My CGS2821 README file")
 
 
 <br>
@@ -58,4 +58,4 @@ Through a series of examples and projects, students learn basic programming conc
 - Google Chrome 
 - Amazon AWS Cloud9 
 
-Link: [LIS 2360 README.md](LIS-2360/README.md "My LIS2360 README file")
+Link: [LIS-2360 README.md](LIS-2360/README.md "My LIS2360 README file")

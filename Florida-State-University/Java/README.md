@@ -6,7 +6,7 @@ In this folder, there are two specific classes that focus on Java. Below are the
 
 # List of Classes: 
 ## <em>COP 2258: Oriented-Object Programming With Java</em>
-Link: [COP 2258 README.md](COP-2258/README.md "My COP 2558 README file")
+Link: [COP-2258 README.md](COP-2258/README.md "My COP 2558 README file")
 
 ## <em>LIS 4368: Advanced Web Development</em>
 ### Summary: 
@@ -35,4 +35,4 @@ application development resources on the Internet.
 - Bitbucket (Remote Repository)
 - Google Chrome (OS)
 
-Link: [LIS 4368 README.md](LIS-4368/README.md "My LIS 4368 README file")
+Link: [LIS-4368 README.md](LIS-4368/README.md "My LIS 4368 README file")

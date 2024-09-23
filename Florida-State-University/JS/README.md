@@ -31,4 +31,4 @@ application development resources on the Internet.
 - Bitbucket (Remote Repository)
 - Google Chrome (OS)
 
-Link: [LIS 4368 README.md](LIS-4368/README.md "My LIS 4368 README file")
+Link: [LIS-4368 README.md](LIS-4368/README.md "My LIS 4368 README file")

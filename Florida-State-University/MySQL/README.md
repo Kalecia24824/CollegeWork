@@ -29,4 +29,4 @@ diagrams
 - MYSQL
 - MAC OS
 
-Link: [LIS 2780 README.md](LIS-2780/README.md "My LIS 2780 README file")
+Link: [LIS-2780 README.md](LIS-2780/README.md "My LIS 2780 README file")
