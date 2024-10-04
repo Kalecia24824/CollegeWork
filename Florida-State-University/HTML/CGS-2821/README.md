@@ -11,6 +11,8 @@ Here you can view the images for each project I did for the class in folders inc
 - Google Chrome 
 
 ## README links for each project: 
+### Project 2: 
+Link: [Project 2 README.md](Project-2/README.md "My Project 2 README file")
 
 ### Project 3: 
 Link: [Project 3 README.md](Project-3/README.md "My Project 3 README file")

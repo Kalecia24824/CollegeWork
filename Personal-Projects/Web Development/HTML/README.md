@@ -4,20 +4,18 @@
 Welcome to the HTML folder! Here you will find that thus folder contains all of my projects using HTML5. From the basics of HTML to focusing on structuring content using semantics along with following rules for accessibility. Each mini-project is designed to help me organize my understanding of HTML 
 
 ## Project Overview 
-This is a list of all of my projects that I currently have right now: 
+This is a list of all the main folders with their README.mds and sub-folders 
 
 ### Beginner 
-These are the projects that have HTML in them: 
-- Hello World 
-- HTML Template 
-- Heading and Paragraphs 
+Link to Beginner README.md: 
+[Beginner README](/Beginner/README.md "My Beginner README")
 
 ### Intermediate
-These are the projects that have HTML and CSS: 
+[Intermediate README](/Intermediate/README.md "My Intermediate README")
 
 
 ### Professional
-These are the projects that have HTML, CSS and JS: 
+[Professional README](/Professional/README.md "My Professional README")
 
 
 ## Closing Note

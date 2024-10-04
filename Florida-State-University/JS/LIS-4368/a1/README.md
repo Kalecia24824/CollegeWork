@@ -1,8 +1,3 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
->
->Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
->
-
 # LIS 4368
 
 ## Kalecia McNeal
@@ -52,12 +47,3 @@ b) the completed tutorial
 *Screenshot of A1/index.jsp- My First App*:
 
 ![A1/index.jsp Screenshot](img/jsp.png)
-
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://Apples24824@bitbucket.org/my-web-portfolio/bitbucketstationlocations.git "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")

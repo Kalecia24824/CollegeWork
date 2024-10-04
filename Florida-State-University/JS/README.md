@@ -30,5 +30,3 @@ application development resources on the Internet.
 - Visual Studio Code (coding)
 - Bitbucket (Remote Repository)
 - Google Chrome (OS)
-
-Link: [LIS-4368 README.md](LIS-4368/README.md "My LIS 4368 README file")

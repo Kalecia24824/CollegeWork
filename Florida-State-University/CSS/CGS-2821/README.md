@@ -23,11 +23,11 @@ Link: [Project 6 README.md](Project-6/README.md "My Project 6 README file")
 ### Project 7: 
 Link: [Project 7 README.md](Project-7/README.md "My Project 7 README file")
 
- ### Project 8: 
+### Project 8: 
 Link: [Project 8 README.md](Project-8/README.md "My Project 8 README file")
 
-### Final Website Designs: 
-Link: [Final Website README.md](Final-Website/README.md "My Final Website README file")
+### Project Finale: 
+Link: [Project Final README.md](Project-Final/README.md "My Final Website README file")
 
 ### Final Website: 
 Link: [Final Website](https://kaleciamcneal.wixsite.com/theusefulnessofai "My Final Website")

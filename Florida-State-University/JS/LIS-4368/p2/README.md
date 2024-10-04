@@ -1,8 +1,3 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
->
->Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
->
-
 # LIS 4368
 
 ## Kalecia McNeal
@@ -56,16 +51,3 @@
 ![Update Database Result](img/update_database.png "Update Database Result")
 
 ![Delete Database Result](img/delete_database.png "Delete Database Result")
-
-
-
-#### Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[Bitbucket Station Locations Link](https://Apples24824@bitbucket.org/my-web-portfolio/bitbucketstationlocations.git "Bitbucket Station Locations")
-
-*Regular Expressions*: 
-[Lesson 7 - Regular Expressions](http://www.qcitr.com/usefullinks.htm#lesson7 "Dr. Jowett's Regular Expressions")
-
-*My Online Portfolio Website*: 
-[My Online Portfolio Link](http://localhost:9999/lis4368/index.jsp "My Online Portfolio")
