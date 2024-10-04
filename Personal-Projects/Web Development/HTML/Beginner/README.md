@@ -15,4 +15,3 @@ These are the foundational projects including:
 - Links 
 - Images 
 - Tables 
-
