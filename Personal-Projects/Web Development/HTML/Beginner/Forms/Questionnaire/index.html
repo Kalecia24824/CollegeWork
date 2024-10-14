@@ -1,0 +1,93 @@
+<!--
+Purpose: This is a questionnaire designed to ask users some questions 
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>My Te</title>
+    </head>
+
+    <body>
+        <main>
+            <header>
+                <h1>Questionnaire</h1>
+            </header>
+        </main>
+        
+        <form>
+            <fieldset>
+                <legend>Basic Info</legend>
+
+                <section> <!--First Name-->
+                    <label for="fname">First Name:</label>
+                    <input type="text" id="fname" name="fname" placeholder="First Name">
+                </section> <br>
+     
+                <section> <!--Last Name-->
+                    <label for="lname">Last Name:</label> 
+                    <input type="lname" id="lname" name="lname" placeholder="Last Name">
+                </section> <br>
+     
+                <section> <!--Phone-->
+                    <label for="phone">Phone:</label>
+                    <input type="phone" id="phone" name="phone" placeholder="Phone">
+                </section> <br>
+     
+                <section> <!--Email-->
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="email">
+                </section> <br>
+            </fieldset> <br> 
+
+            <fieldset>
+                <legend>Questions</legend>
+
+                <section> <!--Fruit-->
+                    <p>What is your favorite fruit?</p>
+                    <input type="radio" id="fruit" name="apple" value="apple">
+                    <label for="apple">Apple</label> <br>
+
+                    <input type="radio" id="fruit" name="strawberry" value="strawberry">
+                    <label for="strawberry">Strawberry</label> <br>
+
+                    <input type="radio" id="fruit" name="orange" value="orange">
+                    <label for="orange">Orange</label> <br>
+
+                    <input type="radio" id="fruit" name="banana" value="banana">
+                    <label for="banana">Banana</label> <br>
+                 </section> <br> <br>
+     
+                 <section>
+                    <p>What is your favorite color(s) in the rainbow?</p>
+
+                     <input type="checkbox" id="color" name="red" value="red">
+                     <label for="red">Red</label> <br>
+
+                     <input type="checkbox" id="color" name="orange" value="orange">
+                     <label for="orange">Orange</label> <br>
+
+                     <input type="checkbox" id="color" name="yellow" value="yellow">
+                     <label for="yellow">Yellow</label> <br>
+
+                     <input type="checkbox" id="color" name="green" value="green">
+                     <label for="green">Green</label> <br>
+
+                     <input type="checkbox" id="color" name="blue" value="blue">
+                     <label for="blue">Blue</label> <br>
+
+                     <input type="checkbox" id="color" name="indigo" value="indigo">
+                     <label for="indigo">Indigo</label> <br>
+
+                     <input type="checkbox" id="color" name="purple" value="purple">
+                     <label for="purple">Purple</label> <br>
+                 </section> <br>
+                 
+           </fieldset> <br> 
+
+            <input type="submit" value="Submit"></input>
+        </form>
+    </body>
+</html>
