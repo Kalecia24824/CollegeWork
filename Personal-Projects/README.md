@@ -9,5 +9,11 @@ These are the list of folders in the Personal Projects folder.
 ## Web Design: 
 In this folder, it will contain README with the list of projects in the Figma directory. Each sub-folder will have a README listing my process, brainstorming and the final design file.  
 
+### Link to Web Design README.md: 
+[Web Design README.md](/Personal-Projects/Web%20Design/README.md "My Web Design README.md")
+
 ## Web Development: 
 This folder is very similar to the Web Design folder except, it will contain different project files based on level of difficulty. 
+
+### Link to Web Development README.md:
+[Web Development README.md](/Personal-Projects/Web%20Development/README.md "My Web Development README.md")

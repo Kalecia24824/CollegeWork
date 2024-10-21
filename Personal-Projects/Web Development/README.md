@@ -1,10 +1,7 @@
-# Welcome to my Practice Projects Repository 
+# Web Development Folder
 <em>by Kalecia McNeal</em>
 
-Welcome to my Practice Projects repository! This collection contains a variety of mini-projects that I have created to sharpen my skills in HTML, CSS, JavaScript, Java, and MySQL. Each project covers different levels of complexity, focusing on web development and programming fundamentals.
-
-## About 
-This repo represents my learning journey from learning the basics to more advanced concepts with each mini-project highlighting different concepts or challenges I face. 
+Welcome to the Web Development folder! Here you will find all of my personal projects in various languages such as HTML, CSS and JS. Each language folder is designed to showcase my skills from basic foundations to advanced topics. All projects cover different levels of complexity, focusing on web development and programming fundamentals. 
 
 ## Languages Used: 
 Here are the following languages I will use for each project with their own link: 

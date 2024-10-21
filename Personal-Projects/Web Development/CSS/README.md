@@ -6,14 +6,11 @@ Welcome to the CSS folder! Here in this folder, it contains projects using CSS3 
 ## Project Overview 
 This is a list of all of my projects that I currently have right now: 
 
-### Beginner 
-
-### Intermediate 
-
-### Professional 
+### QR Code: 
+- A code for users to scan with the QR Code
 
 ## Closing Note
-With that I hope you enjoy reading each README and going through each mini project! 
+With that I hope you enjoy going through each mini project! 
 
 ## Contact:
 To learn more or ask any questions about the projects you can choose from the following below to contact me: 
