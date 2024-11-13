@@ -1,7 +1,7 @@
 # Welcome to the Florida State University folder 
 <em>By Kalecia McNeal</em>
 
-Here you can find all of my projects I have completed so far in college at Florida State University. Each folder will consist of a language I learned with the class associated as the sub-folders. (Current as of September 2024!)
+Here you can find all of my projects I have completed so far in college at Florida State University. Each folder will consist of a language I learned with the class associated as the sub-folders.
 
 
 ## List of Folders by Language: 
