@@ -1,4 +1,4 @@
-# Welcome to My Portfolio 
+# Welcome to College Work
 <em>By Kalecia McNeal</em>
 
 Here you can find all of my projects I have completed so far in college! 
