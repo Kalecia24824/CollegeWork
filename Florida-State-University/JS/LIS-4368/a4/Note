@@ -1,2 +1,0 @@
-javac -cp . crud/business/Customer.java
-javac -cp .:/Users/kaleciamcneal/myWebProject/tomcat/lib/servlet-api.jar crud/admin/CustomerServlet.java
